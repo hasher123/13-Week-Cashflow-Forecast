@@ -1,0 +1,1 @@
+A dynamic 13-week cash flow model built in Excel to support SME liquidity planning and scenario analysis. Designed for clarity and adaptability, it includes automated summary sheet, stress testing logic via line chart, and practical forecasting tools to help finance teams stay ahead of cash challenges.
